@@ -1,5 +1,5 @@
 {
     "name": "Argentina",
-    "description": "Español con localización \"ríoplatense\" para los argentinos y uruguayos.",
+    "description": "Español con localización\n\"ríoplatense\"\npara los argentinos y uruguayos.",
     "download_url": "https://github.com/deltarune-arg/ArgDeltranslate/releases/download/latest/lang.zip"
 }
