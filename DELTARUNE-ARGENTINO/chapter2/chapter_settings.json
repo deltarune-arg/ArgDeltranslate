@@ -17,6 +17,9 @@
 		"spr_city_mice_sign_03": {
 			"xoffset": 14,
 			"yoffset": 0
+		},
+		"IMAGE_LOGO_CENTER_CHAPTERNUMBER": {
+			"yoffset": 7
 		}
 	},
     "button_sounds_symbols": ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","0","1","2","3","4","5","6","7","8","9","!","?"],
