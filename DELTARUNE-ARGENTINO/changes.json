@@ -9,7 +9,8 @@
 		"settings.json",
 		"fonts/fnt_dotumche.ttf"
 		]
-	}"1.0.2": {
+	},
+	"1.0.2": {
 		"description": "- added link.",
 		"files": []
 	}
