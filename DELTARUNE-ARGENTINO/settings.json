@@ -1,6 +1,7 @@
 {
     "name": "Argentina",
     "fonts_range": [32, 253],
+	"link": "https://x.com/deltarunearg",
     "monospace_fonts": true,
     "special_mode": true, 
     "enable_translated_songs_switch": true,
