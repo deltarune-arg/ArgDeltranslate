@@ -2,5 +2,11 @@
     "1.0.0": {
         "description": "- Playtesting build.",
         "files": []
-    }
+    },
+	"1.0.1": {
+		"description": "- Dotumche mono fix.",
+		"files": [
+		"settings.json",
+		"fonts/fnt_dotumche.ttf"
+]
 }
