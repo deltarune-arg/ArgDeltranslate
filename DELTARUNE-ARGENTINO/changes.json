@@ -13,5 +13,23 @@
 	"1.0.2": {
 		"description": "- added link.",
 		"files": []
+	},
+	"1.0.3": {
+		"description": "- casi terminado."
+		"files": [
+		"fonts/fnt_dotumche.ttf"
+		"chapter1/sounds/snd_joker_anything.ogg",
+		"chapter1/sounds/snd_joker_byebye.ogg",
+		"chapter1/sounds/snd_joker_chaos.ogg",
+		"chapter1/sounds/snd_joker_metamorphosis.ogg",
+		"chapter1/sounds/snd_joker_neochaos.ogg",
+		"chapter1/sounds/snd_joker_ha0.ogg",
+		"chapter1/sounds/snd_joker_laugh1.ogg",
+		"chapter2/sprites/spr_queenscreen_large.png",
+		"chapter2/chapter_settings.json",
+		"chapter1/strings.json",
+		"chapter2/strings.json"
+		]
 	}
+		
 }
