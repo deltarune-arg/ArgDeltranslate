@@ -15,9 +15,9 @@
 		"files": []
 	},
 	"1.0.3": {
-		"description": "- casi terminado."
+		"description": "- casi terminado.",
 		"files": [
-		"fonts/fnt_dotumche.ttf"
+		"fonts/fnt_dotumche.ttf",
 		"chapter1/sounds/snd_joker_anything.ogg",
 		"chapter1/sounds/snd_joker_byebye.ogg",
 		"chapter1/sounds/snd_joker_chaos.ogg",
