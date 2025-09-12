@@ -30,6 +30,14 @@
 		"chapter1/strings.json",
 		"chapter2/strings.json"
 		]
+	},
+	"1.1.0": {
+		"description": "- ALMOST RELEASED.",
+		"files": [
+		"chapter1/strings.json",
+		"chapter2/strings.json",
+		"chapter2/sprites/spr_face_queen.png",
+		"settings.json"
+		]
 	}
-		
 }
