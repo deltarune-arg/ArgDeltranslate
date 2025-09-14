@@ -37,7 +37,22 @@
 		"chapter1/strings.json",
 		"chapter2/strings.json",
 		"chapter2/sprites/spr_face_queen.png",
-		"settings.json"
+		"settings.json",
+		"changes.json"
+		]
+	},
+	"1.2.0": {
+		"description": "- solo falta la canción.",
+		"files": [
+		"fonts/fnt_dotumche.ttf",
+		"chapter2/sprites/spr_face_queen.png",
+		"chapter1/strings.json",
+		"chapter2/strings.json",
+		"changes.json",
+		"chapter2/sounds/snd_tm_quiz_a.ogg",
+		"chapter2/sounds/snd_tm_quiz_b.ogg",
+		"chapter2/sounds/snd_tm_quiz_c.ogg",
+		"chapter2/sounds/snd_tm_quiz_d.ogg"
 		]
 	}
 }
