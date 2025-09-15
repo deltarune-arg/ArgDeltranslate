@@ -54,5 +54,15 @@
 		"chapter2/sounds/snd_tm_quiz_c.ogg",
 		"chapter2/sounds/snd_tm_quiz_d.ogg"
 		]
+	},
+	"2.0.0": {
+		"description": "- CAPÍTULO 2 TRADUCIDO.",
+		"files": [
+		"chapter1/strings.json",
+		"chapter1/sounds/dontforget.ogg",
+		"chapter2/strings.json",
+		"chapter2/sounds/ch2_credits.ogg",
+		"changes.json"
+		]
 	}
 }
