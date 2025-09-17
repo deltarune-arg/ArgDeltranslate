@@ -64,5 +64,13 @@
 		"chapter2/sounds/ch2_credits.ogg",
 		"changes.json"
 		]
+	},
+	"2.0.1": {
+		"description": "- CAP 2 BUGS ARREGLADOS.",
+		"files": [
+		"chapter1/strings.json",
+		"chapter2/strings.json",
+		"changes.json"
+		]
 	}
 }
