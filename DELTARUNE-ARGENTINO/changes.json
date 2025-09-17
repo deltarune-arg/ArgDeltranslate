@@ -72,5 +72,13 @@
 		"chapter2/strings.json",
 		"changes.json"
 		]
+	},
+	"2.0.2": {
+		"description": "- errores arreglados.",
+		"files": [
+		"chapter1/strings.json",
+		"chapter2/strings.json",
+		"changes.json"
+		]
 	}
 }
