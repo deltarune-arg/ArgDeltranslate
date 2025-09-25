@@ -80,5 +80,14 @@
 		"chapter2/strings.json",
 		"changes.json"
 		]
+	},
+	"2.0.3": {
+		"description": "- Pls descargar desde twt.",
+		"files": [
+		"chapter1/strings.json",
+		"chapter2/strings.json",
+		"strings.json",
+		"changes.json"
+		]
 	}
 }
