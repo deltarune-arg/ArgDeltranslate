@@ -89,5 +89,13 @@
 		"strings.json",
 		"changes.json"
 		]
+	},
+	"2.0.4": {
+		"description": "- Cositas.",
+		"files": [
+		"chapter1/strings.json",
+		"chapter2/strings.json",
+		"changes.json"
+		]
 	}
 }
