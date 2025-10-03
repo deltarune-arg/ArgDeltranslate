@@ -97,5 +97,14 @@
 		"chapter2/strings.json",
 		"changes.json"
 		]
+	},
+	"2.0.5": {
+		"description": "- missgenders arreglados",
+		"files": [
+		"chapter1/strings.json",
+		"chapter2/strings.json",
+		"fonts/fnt_comicsans.ttf",
+		"changes.json"
+		]
 	}
 }
