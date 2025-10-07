@@ -106,5 +106,13 @@
 		"fonts/fnt_comicsans.ttf",
 		"changes.json"
 		]
+	},
+	"2.0.6": {
+		"description": "- nombre de Rude/Red Buster cambiado",
+		"files": [
+		"chapter1/strings.json",
+		"chapter2/strings.json",
+		"changes.json"
+		]
 	}
 }
