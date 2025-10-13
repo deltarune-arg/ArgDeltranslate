@@ -121,5 +121,9 @@
 		"settings.json",
 		"strings.json"
 		]
+	},
+	"2.1.1": {
+		"description": "- TODO CAMBIÓ",
+		"files": []
 	}
 }
