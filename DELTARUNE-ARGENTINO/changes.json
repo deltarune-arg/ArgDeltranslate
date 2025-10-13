@@ -114,5 +114,12 @@
 		"chapter2/strings.json",
 		"changes.json"
 		]
+	},
+	"2.1.0": {
+		"description": "- TODO CAMBIÓ",
+		"files": [
+		"settings.json",
+		"strings.json"
+		]
 	}
 }
