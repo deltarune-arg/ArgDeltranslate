@@ -155,5 +155,12 @@
 		"chapter2/strings.json",
 		"changes.json"
 		]
-	}
+	},
+	"2.1.5": {
+		"description": "- VERGA",
+		"files": [
+		"strings.json",
+		"changes.json"
+		]
+	},
 }
