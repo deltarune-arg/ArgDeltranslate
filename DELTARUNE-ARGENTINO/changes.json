@@ -146,5 +146,14 @@
 		"chapter2/strings.json",
 		"changes.json"
 		 ]
+	},
+	"2.1.4": {
+		"description": "- revert",
+		"files": [
+		"strings.json",
+		"chapter1/strings.json",
+		"chapter2/strings.json",
+		"changes.json"
+		]
 	}
 }
