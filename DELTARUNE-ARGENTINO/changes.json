@@ -134,7 +134,17 @@
 		"files": [
 		"strings.json",
 		"chapter1/strings.json",
-		"chapter2/strings.json"
+		"chapter2/strings.json",
+		"changes.json"
 		]
+	},
+	"2.1.3": {
+		"description": "- mmm",
+		"files": [
+		"strings.json",
+		"chapter1/strings.json",
+		"chapter2/strings.json",
+		"changes.json"
+		 ]
 	}
 }
