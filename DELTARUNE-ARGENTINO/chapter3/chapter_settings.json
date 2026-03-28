@@ -3,7 +3,104 @@
         "spr_amogus": {
             "xoffset": 17,
             "yoffset": 21
-        }
+        },
+		"spr_funnytext_star2": {
+			"xoffset": 60,
+			"yoffset": 50
+			},
+		"IMAGE_LOGO_CENTER_CHAPTERNUMBER": {
+			"yoffset": 9
+		},
+		"spr_funnytext_tan": {
+			"yoffset": 34
+		},
+		"spr_tvlandfont": {
+			"frame_num": 81
+		},
+		"spr_dw_interstitial_doors_sign": {
+			"xoffset": 2,
+			"yoffset": -1
+		},
+		"spr_dw_interstitial_doors_sign_outline": {
+			"xoffset": 2,
+			"yoffset": -1
+		},
+		"spr_funnytext_tv_time": {
+			"xoffset": 175
+		},
+		"spr_board_tvtimelogo": {
+			"xoffset": 25
+		},
+		"spr_board_game_title": {
+			"xoffset": -9
+		},
+		"spr_funnytext_breaking_news": {
+			"xoffset": 225
+		},
+		"spr_funnytext_special": {
+			"yoffset": 40
+		},
+		"spr_funnytext_win": {
+			"yoffset": 15
+		},
+		"spr_funnytext_fun_loop": {
+			"yoffset": 15
+		},
+		"spr_funnytext_hall_of_fame": {
+			"yoffset": 40
+		},
+		"spr_funnytext_know_tv": {
+			"xoffset": 180
+		},
+		"spr_dw_tv_tvtimeSign_half": {
+			"xoffset": 10
+		},
+		"spr_dw_tv_tvtimeSign_off_gray": {
+			"xoffset": 10
+		},
+		"spr_gameshow_screen_logo": {
+			"xoffset": 10
+		},
+		"spr_gameshow_screen_chef_logo": {
+			"xoffset": 10
+		},
+		"spr_funnytext_game_over": {
+			"xoffset": 260
+		},
+		"spr_dw_tv_time_01": {
+			"xoffset": 95,
+			"yoffset": 53
+		},
+		"spr_dw_tv_time_02": {
+			"xoffset": 33
+		},
+		"spr_dw_tv_time_03": {
+			"xoffset": 54,
+			"yoffset": 40
+		},
+		"spr_dw_tv_time_04": {
+			"xoffset": 90,
+			"yoffset": 45
+		},
+		"spr_dw_tv_time_lights": {
+			"xoffset": 30
+		},
+		"spr_hopeometer_flowers": {
+			"xoffset": 5
+		},
+		"spr_hopeometer_hope": {
+			"xoffset": 5
+		},
+		"spr_shop_space_ui": {
+			"xoffset": 12
+		},
+		"spr_funnytext_cronica": {
+			"xoffset": 20,
+			"yoffset": 135
+		},
+		"spr_battlemsg": {
+			"xoffset": 120
+		}
     },
     "video_caption_times": [
         [0.02, 0.13],
@@ -16,58 +113,77 @@
         [0.63, 0.67],
         [0.68, 0.73]
     ],
-    "input_game_name_chars": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789?!.-",
+    "input_game_name_chars": "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ0123456789?!.-",
     "kri_word": ["KRI"],
     "krs_word": ["KRS"],
-    "bad_word": ["ASS", "PEE", "POO", "TIT", "BUT", "BUM"],
+    "bad_word": ["OGT", "QLO", "PIS", "TTA"],
     "other_name_word": ["RAL", "SUS"],
     "very_bad_word": ["FUC", "FUX", "FUK", "FCK"],
     "aaa_word": ["AAA"],
-    "bad_word_parent_control": ["PEE", "POO"],
+    "bad_word_parent_control": ["MEO", "KKA", "CAC", "BLD", "GIL", "URA"],
     "forbidden_words_schemas": [
-        "FUC", "FUK", "FUQ", "FUX", 
+        "FUC", "FUK", "FUQ", "FUX", "PEN",
         "SEX", "CUM", "COC", "COK", "COQ",
-        "FCK", "FCK", "FCX", "**G"
+        "FCK", "FCK", "FCX", "**G", "PET",
+		"PTO", "PNE", "PTS", "PTE",
+		"LPM", "HDP", "CTM", "CSM", "MRD",
+		"LLA", "WSK", "ANO", "DVX", "SXO",
+		"S3X", "SX0", "PT0", "PT3", "AN0"
     ],
-    "its_tv_time_lights_xs": [0, 165, 210, 310],
-    "tv_time_timestamps": [0, 1.2, 2, 2.85],
+    "its_tv_time_lights_xs": [0, 181, 250, 326],
+    "tv_time_timestamps": [0, 1.38, 2.27, 3.03],
     "additional_funny_words": [
-        "spr_amogus"
+        "spr_amogus",
+		"spr_funnytext_star2",
+		"spr_funnytext_cronica"
     ],
     "additional_funny_sounds": [
-        "snd_amogus"
+        "snd_amogus",
+		"snd_star",
+		"snd_cronica"
     ],
-    "tvlangfont_string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ.?!:…abcdefghijklmnopqrstuvwxyz1234567890",
+    "tvlangfont_string": "ABCDEFGHIJKLMNOPQRSTUVWXYZ.?!:…abcdefghijklmnopqrstuvwxyz1234567890ÁÉÍÓÚÜáéíóúü¿¡",
     "translators_credits": [
         [
             {
-                "header": ["-Japanese Localization-"],
-                "text_line": ["8-4, Ltd."],
+                "header": ["-Traducción Argentina-"],
+                "text_line": ["*DeltaruneArg*", "Dirección de Nahu_Toger"],
                 "columns": 1
             },
             {
-                "header": ["-Translator-"],
-                "text_line": ["Keiko Fukuichi"],
-                "columns": 1
+                "header": ["-Traductores-"],
+                "text_line": [
+				"symonarch413",
+				"foxgirl.asylum",
+				"facum",
+				" ",
+				" ",
+				
+				"Nahu_Toger",
+				"TheRepti (BOMBA)",
+				"AquaSanty066",
+				" ",
+				" "
+				],
+                "columns": 2
             }
         ],
         [
             {
-                "header": ["-Localization Producers-"],
-                "text_line": ["Tina Carter", "John Ricciardi"],
+                "header": ["-Beta Testers ARG-"],
+                "text_line": ["CrimsonZN, Rambpippins, LucciSK"],
                 "columns": 1
             },
             {
-                "header": ["-Localization Support-"],
-                "text_line": [
-                    "Hiroyuki Matsushita", 
-                    "Yutaka Ohbuchi", 
-                    "Sami Ragone", 
-                    "Alissa Staples", 
-                    "JP Wentz"
-                ],
+                "header": ["-Spriters & Tipografía Tenna ARG-"],
+                "text_line": ["S_body2, Artemisa Wetzler, Marty"],
                 "columns": 1
-            }
+            },
+			{
+				"header": ["-TENNA INTROS ARG-"],
+                "text_line": ["Doblaje por Pafoparasito (Gianluca Bellero)", "Edición de VHS por Maximiliano Ruíz", "INTRO CAP 3 por Sate Satelite"],
+                "columns": 1
+			}
         ]
     ],
     "logo_pieces_pos": [

@@ -3,159 +3,6 @@
         "description": "- Playtesting build.",
         "files": []
     },
-	"1.0.1": {
-		"description": "- Dotumche mono fix.",
-		"files": [
-		"settings.json",
-		"fonts/fnt_dotumche.ttf"
-		]
-	},
-	"1.0.2": {
-		"description": "- added link.",
-		"files": []
-	},
-	"1.0.3": {
-		"description": "- casi terminado.",
-		"files": [
-		"fonts/fnt_dotumche.ttf",
-		"chapter1/sounds/snd_joker_anything.ogg",
-		"chapter1/sounds/snd_joker_byebye.ogg",
-		"chapter1/sounds/snd_joker_chaos.ogg",
-		"chapter1/sounds/snd_joker_metamorphosis.ogg",
-		"chapter1/sounds/snd_joker_neochaos.ogg",
-		"chapter1/sounds/snd_joker_ha0.ogg",
-		"chapter1/sounds/snd_joker_laugh1.ogg",
-		"chapter2/sprites/spr_queenscreen_large.png",
-		"chapter2/chapter_settings.json",
-		"chapter1/strings.json",
-		"chapter2/strings.json"
-		]
-	},
-	"1.1.0": {
-		"description": "- ALMOST RELEASED.",
-		"files": [
-		"chapter1/strings.json",
-		"chapter2/strings.json",
-		"chapter2/sprites/spr_face_queen.png",
-		"settings.json",
-		"changes.json"
-		]
-	},
-	"1.2.0": {
-		"description": "- solo falta la canción.",
-		"files": [
-		"fonts/fnt_dotumche.ttf",
-		"chapter2/sprites/spr_face_queen.png",
-		"chapter1/strings.json",
-		"chapter2/strings.json",
-		"changes.json",
-		"chapter2/sounds/snd_tm_quiz_a.ogg",
-		"chapter2/sounds/snd_tm_quiz_b.ogg",
-		"chapter2/sounds/snd_tm_quiz_c.ogg",
-		"chapter2/sounds/snd_tm_quiz_d.ogg"
-		]
-	},
-	"2.0.0": {
-		"description": "- CAPÍTULO 2 TRADUCIDO.",
-		"files": [
-		"chapter1/strings.json",
-		"chapter1/sounds/dontforget.ogg",
-		"chapter2/strings.json",
-		"chapter2/sounds/ch2_credits.ogg",
-		"changes.json"
-		]
-	},
-	"2.0.1": {
-		"description": "- CAP 2 BUGS ARREGLADOS.",
-		"files": [
-		"chapter1/strings.json",
-		"chapter2/strings.json",
-		"changes.json"
-		]
-	},
-	"2.0.2": {
-		"description": "- errores arreglados.",
-		"files": [
-		"chapter1/strings.json",
-		"chapter2/strings.json",
-		"changes.json"
-		]
-	},
-	"2.0.3": {
-		"description": "- Pls descargar desde twt.",
-		"files": [
-		"chapter1/strings.json",
-		"chapter2/strings.json",
-		"strings.json",
-		"changes.json"
-		]
-	},
-	"2.0.4": {
-		"description": "- Cositas.",
-		"files": [
-		"chapter1/strings.json",
-		"chapter2/strings.json",
-		"changes.json"
-		]
-	},
-	"2.0.5": {
-		"description": "- missgenders arreglados",
-		"files": [
-		"chapter1/strings.json",
-		"chapter2/strings.json",
-		"fonts/fnt_comicsans.ttf",
-		"changes.json"
-		]
-	},
-	"2.0.6": {
-		"description": "- nombre de Rude/Red Buster cambiado",
-		"files": [
-		"chapter1/strings.json",
-		"chapter2/strings.json",
-		"changes.json"
-		]
-	},
-	"2.1.0": {
-		"description": "- TODO CAMBIÓ",
-		"files": [
-		"settings.json",
-		"strings.json"
-		]
-	},
-	"2.1.1": {
-		"description": "- TODO CAMBIÓ",
-		"files": [
-		"settings.json",
-		"changes.json"
-		]
-	},
-	"2.1.2": {
-		"description": "- Cambios random",
-		"files": [
-		"strings.json",
-		"chapter1/strings.json",
-		"chapter2/strings.json",
-		"changes.json"
-		]
-	},
-	"2.1.3": {
-		"description": "- mmm",
-		"files": [
-		"strings.json",
-		"chapter1/strings.json",
-		"chapter2/strings.json",
-		"changes.json"
-		 ]
-	},
-	"2.1.4": {
-		"description": "- revert",
-		"files": [
-		"strings.json",
-		"chapter1/strings.json",
-		"chapter2/strings.json",
-		"changes.json"
-		]
-	},
 	"2.1.5": {
 		"description": "- VERGA",
 		"files": [
@@ -163,4 +10,10 @@
 		"changes.json"
 		]
 	},
+	"3.0.0": {
+		"description": "- CAPÍTULO 3. Se recomienda descargar por TWITTER o Discord.",
+		"files": [
+		"changes.json",
+		]
+	}
 }

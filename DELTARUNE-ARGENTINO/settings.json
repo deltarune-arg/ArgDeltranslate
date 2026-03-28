@@ -1,10 +1,10 @@
 {
     "name": "Argentina",
     "lang_code": "DELTARUNE-ARGENTINO",
-    "description": "Español con localización\n\"ríoplatense\"\npara los argentinos y uruguayos",
+    "description": "Español con localización\n\"ríoplatense\". Hecha por el\nequipo de DELTARUNEARG",
     "link": "https://x.com/deltarunearg",
     "monospace_fonts": true,
-    "special_mode": true,
+    "special_mode": false,
     "enable_translated_songs_switch": true,
     "translator_mode": false,
     "line_height_factor": 1,
