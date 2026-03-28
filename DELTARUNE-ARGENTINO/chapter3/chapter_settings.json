@@ -156,17 +156,19 @@
 				"symonarch413",
 				"foxgirl.asylum",
 				"facum",
-				" ",
-				" ",
 				
 				"Nahu_Toger",
 				"TheRepti (BOMBA)",
-				"AquaSanty066",
-				" ",
-				" "
+				"AquaSanty066"
 				],
                 "columns": 2
-            }
+            },
+			{
+			"header": ["-DON'T FORGET Y RAISE UP YOUR BAT-"],
+			"text_line": ["Letra y mezclas por SAMANTHA 'SARUBI' BIONDI", "Vocales por Celeste Souza", "   ", "    ", "   ", "    ", "   ", "    "],
+			"columns": 1
+}
+			
         ],
         [
             {

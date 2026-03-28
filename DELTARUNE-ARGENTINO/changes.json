@@ -15,5 +15,12 @@
 		"files": [
 		"changes.json",
 		]
+	},
+	"3.0.1": {
+		"description": "- Me olvidé de algo.",
+		"files": [
+		"changes.json",
+		"chapter3/chapter_setting.json"
+		]
 	}
 }
