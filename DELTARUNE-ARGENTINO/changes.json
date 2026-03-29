@@ -29,5 +29,12 @@
 		"chapter1/strings.json",
 		"chapter3/strings.json"
 		]
+	},
+	"3.0.4": {
+		"description": "PERDÓN HUBO UN ERROR",
+		"files": [
+		"chapter3/strings.json",
+		"chapter1/strings.json"
+		]
 	}
 }
