@@ -24,7 +24,7 @@
 		]
 	},
 	"3.0.3": {
-		"description": "- FIX FIX FIX"
+		"description": "- FIX FIX FIX",
 		"files": [
 		"chapter1/strings.json",
 		"chapter3/strings.json"
