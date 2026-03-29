@@ -22,5 +22,12 @@
 		"changes.json",
 		"chapter3/chapter_setting.json"
 		]
+	},
+	"3.0.3": {
+		"description": "- FIX FIX FIX"
+		"files": [
+		"chapter1/strings.json",
+		"chapter3/strings.json"
+		]
 	}
 }
