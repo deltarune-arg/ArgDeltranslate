@@ -36,5 +36,14 @@
 		"chapter3/strings.json",
 		"chapter1/strings.json"
 		]
+	},
+	"3.0.5": {
+		"description": "POR FAVOR REINSTALAR MOD",
+		"files": [
+		"chapter1/strings.json",
+		"chapter2/strings.json",
+		"chapter3/strings.json",
+		"chapter3/sprites/spr_funnytext_flames.png"
+		]
 	}
 }
