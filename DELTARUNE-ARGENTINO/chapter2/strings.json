@@ -2782,7 +2782,7 @@
     "obj_ch2_scene9_slash_Step_0_gml_692_0": "\\E0* ¡Sentí una presencia oscura y vine tan rápido como pude!/%",
     "obj_ch2_scene9_slash_Step_0_gml_695_0": "\\E9* Parece ser que una nueva Fuente Oscura ha aparecido.../%",
     "obj_ch2_scene9_slash_Step_0_gml_704_0": "\\ER* Ralsei..^1. ¡Tienen a Noelle!/%",
-    "obj_ch2_scene9_slash_Step_0_gml_710_0": "\\EN* ¿¡Qué estaba PENSANDO ella al meterse con nuesto Mundo Oscuro!?/%",
+    "obj_ch2_scene9_slash_Step_0_gml_710_0": "\\EN* ¿¡Qué estaba PENSANDO ella al meterse con nuestro Mundo Oscuro!?/%",
     "obj_ch2_scene9_slash_Step_0_gml_714_0": "\\EO* Si no hacemos algo^1, puede que ella.../%",
     "obj_ch2_scene9_slash_Step_0_gml_719_0": "\\E0* ¡No te preocupes^1, Susie^1! ¡Solo tenemos que sellar la fuente!/",
     "obj_ch2_scene9_slash_Step_0_gml_721_0": "\\EQ* ..^1. Sí. ¡Sí!/%",
@@ -9336,6 +9336,9 @@
     "obj_credits_2_slash_Step_0_gml_344_0": " ",
     "obj_credits_2_slash_Step_0_gml_345_0": " ",
     "obj_credits_2_slash_Step_0_gml_346_0": " ",
+	
+	"obj_chapter_continue_slash_Create_0_gml_1_0": "Continuar al Capítulo ~1",
+    "obj_chapter_continue_slash_Create_0_gml_2_0": "Seguir Jugando Capítulo ~1",
 
     "DEVICE_MENU_slash_Draw_0_gml_290_0": "CAPÍTULO ",
     "DEVICE_MENU_slash_Draw_0_gml_289_0": "DELTARUNE, Capítulo ",
